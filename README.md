@@ -1,32 +1,22 @@
-# Hi there, I'm [Your Name]! 👋
+# Hi, I'm Aibek Murat 👋
 
-Welcome to my GitHub profile! I'm a [Your Profession or Interests], passionate about [Your Passion/Tech Stack/Area of Interest]. 
+🚀 Android Developer | Building smooth mobile experiences
 
-### 💻 What I do:
-- 🌱 I’m currently learning: [What you're learning]
-- 👯 I’m looking to collaborate on: [Projects you want to collaborate on]
-- 💬 Ask me about: [Topics you're good at]
-- 📫 How to reach me: [Your Contact Details]
+### 💻 Tech Skills:
+<p>
+  <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" />
+  <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+</p>
 
-### 🛠️ Tech Stack:
-- Programming languages: [List your languages]
-- Frameworks: [List frameworks you're familiar with]
-- Tools: [List your tools or platforms]
-  
-### 🔗 Let's Connect:
-- [LinkedIn](https://www.linkedin.com/in/your-profile/)
-- [Twitter](https://twitter.com/your-handle)
-- [GitHub](https://github.com/your-handle)
-- [Portfolio/Website](https://yourwebsite.com)
-- [Email](mailto:your-email@example.com)
+### 🚀 LeetCode:
+- [LeetCode Profile]([https://leetcode.com/your-profile](https://leetcode.com/u/mr_aiba/))
 
-### ⚡ Fun fact:
-[Add something fun about you]
-
-<!-- Optionally, you can add stats or fancy badges -->
-
-<!-- Example Stats (using GitHub readme stats or similar): -->
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-handle&show_icons=true&theme=radical)
-
-<!-- Example Top Languages Card: -->
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-handle&layout=compact&theme=radical)
+### 🌐 Connect with me:
+- [LinkedIn](https://www.linkedin.com/in/aibekmurat)
+- [GitHub](https://github.com/aibekmurat)
+- [Email](mailto:mr.aibek.developer@gmail.com)
