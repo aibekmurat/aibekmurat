@@ -16,7 +16,7 @@
 
 ### 🚀 LeetCode:
 <p>
-  <a href="[https://leetcode.com/your-profile](https://leetcode.com/u/mr_aiba/)">
+  <a href="https://leetcode.com/mr_aiba">
     <img src="https://upload.wikimedia.org/commons/1/19/LeetCode_logo_black.png" width="100" height="40" alt="LeetCode" />
   </a>
 </p>
