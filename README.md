@@ -13,8 +13,6 @@
   <img src="https://skillicons.dev/icons?i=cpp" alt="C++" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=archlinux" alt="Arch Linux" width="50" height="50"/>
-  <img src="https://skillicons.dev/icons?i=endeavour" alt="EndeavourOS" width="50" height="50"/>
 </p>
 <br />
 
