@@ -1,6 +1,6 @@
-# Hi, I'm Aibek Murat 👋
+# Aibek Murat or just aiba (broski)
 
-🚀 Android Developer | Building smooth mobile experiences
+Android Developer | Android >>>>>
 
 ### 💻 Tech Skills:
 <p>
