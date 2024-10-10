@@ -14,7 +14,6 @@ Self taught **Android Developer** | Astana KZ
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub" width="50" height="50"/>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash" width="50" height="50"/>
 </p>
-<br />
 
 ### 🚀 LeetCode:
 - [LeetCode Profile](https://leetcode.com/u/mr_aiba/)
