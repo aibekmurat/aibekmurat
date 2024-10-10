@@ -1,6 +1,6 @@
 # Aibek Murat or just aiba (broski)
 
-Android Developer | Android >>>>>
+Self taught **Android Developer** | Astana KZ
 
 ### 💻 Tech Skills:
 <p>
